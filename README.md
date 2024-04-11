@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @SizhuangHe, welcome to my GitHub page!
-- I am currently a senior year Honors Mathematics student at University of Michigan, Ann Arbor.
+# 👋 Hi, I’m @SizhuangHe
+
+I am an incoming Computer Science Ph.D. student at Yale University, starting in Fall 2024.
+
+Previously, I was a Honors Mathematics undergraduate student at University of Michigan, Ann Arbor, with a minor in Computer Science.
+
+Visit my personal website [here](https://sizhuang.org/).
 
 
 <!---
@@ -8,7 +13,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SizhuangHe)](https://git.io/streak-stats)
+# 🔥 My Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SizhuangHe" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SizhuangHe)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 My Languages
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,js,html,css&theme=light)](https://skillicons.dev)
