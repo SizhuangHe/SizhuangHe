@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SizhuangHe
 
-I am an incoming Computer Science Ph.D. student at Yale University, starting in Fall 2024.
+I am a first-year Computer Science Ph.D. student at Yale University, starting in Fall 2024.
 
 Previously, I was a Honors Mathematics undergraduate student at University of Michigan, Ann Arbor, with a minor in Computer Science.
 
